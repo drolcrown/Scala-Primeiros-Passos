@@ -4,7 +4,7 @@
 		module="primeirospassos-scala$sources_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20170830003328"
+		publication="20170905234050"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
